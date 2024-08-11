@@ -34,3 +34,7 @@ With nearly 2 years of coding experience, I began by mastering DSA in C++, then 
 <a href="http://www.github.com/TheKunal65"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheKunal65&stroke=ffffff&background=000000&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/TheKunal65" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKunal65&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/TheKunal65/Unsung-Memer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheKunal65&repo=Unsung-Memer&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/TheKunal65/UNSUNG-MEMER-Host" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheKunal65&repo=UNSUNG-MEMER-Host&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
