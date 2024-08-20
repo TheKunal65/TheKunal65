@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Crafting Interactive Mobile Experiences with Flutter
 ----------------------------------------------------
 
-With nearly 2 years of coding experience, I began by mastering DSA in C++, then moved into web development with HTML, CSS, and JavaScript. Now, I’m dedicated to creating seamless cross-platform apps using Flutter and Dart.
+With nearly 2 years of coding experience, I began by mastering basics of programming, then moved into web development with HTML, CSS, and JavaScript. Now, I’m dedicated to creating seamless cross-platform apps using Flutter and Dart.
 
 * 🌍  I'm based in Udaipur, Rajasthan, India
 * ✉️  You can contact me at [kunalprajapat65@gmail.com](mailto:kunalprajapat65@gmail.com)
